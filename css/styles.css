@@ -6539,19 +6539,19 @@ body {
     top,
     rgba(255, 255, 255, 0.7) 0%,
     rgba(108, 91, 123, 0.7) 50%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-image: -o-linear-gradient(
     top,
     rgba(255, 255, 255, 0.7) 0%,
     rgba(108, 91, 123, 0.7) 50%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-image: linear-gradient(
     to bottom,
     rgba(255, 255, 255, 0.7) 0%,
     rgba(108, 91, 123, 0.7) 50%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(
@@ -6631,7 +6631,7 @@ body {
 }
 /* Hero :: App */
 .hero_app {
-  background-image: url(../img/tinied.jpg);
+  background-image: url(../img/hero.jpg);
   text-align: left;
   overflow: hidden;
 }
@@ -7280,17 +7280,17 @@ footer a {
   background-image: -webkit-linear-gradient(
     top,
     rgba(108, 91, 123, 0.8) 0%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-image: -o-linear-gradient(
     top,
     rgba(108, 91, 123, 0.8) 0%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-image: linear-gradient(
     to bottom,
     rgba(108, 91, 123, 0.8) 0%,
-    rgba(53, 92, 125, 0.8) 100%
+    rgba(15, 13, 40, 0.8) 100%
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(
