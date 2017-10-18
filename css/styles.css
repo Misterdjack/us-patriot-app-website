@@ -6802,9 +6802,9 @@ body {
  * Portfolio
  */
 
-.section_portfolio {
+/*.section_portfolio {
   background-image: url(../img/contemporary_china.png);
-}
+}*/
 .portfolio__items {
   margin-bottom: 40px;
 }
@@ -7183,9 +7183,9 @@ body {
  */
 footer {
   padding: 40px 0;
-  background-image: -webkit-linear-gradient(top, #6c5b7b 0%, #355c7d 100%);
-  background-image: -o-linear-gradient(top, #6c5b7b 0%, #355c7d 100%);
-  background-image: linear-gradient(to bottom, #6c5b7b 0%, #355c7d 100%);
+  background-image: -webkit-linear-gradient(top, #0e1027 0%, #fff 200%);
+  background-image: -o-linear-gradient(top, #0e1027 0%, #fff 200%);
+  background-image: linear-gradient(to bottom, #0e1027 0%, #fff 200%);
   background-repeat: repeat-x;
   color: #9a9a9a;
   line-height: 30px;
